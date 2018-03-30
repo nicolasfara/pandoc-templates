@@ -1,2 +1,4 @@
 # pandoc-templates
-My collection of personal template for pandoc
+
+- Beamer
+- Generic document
